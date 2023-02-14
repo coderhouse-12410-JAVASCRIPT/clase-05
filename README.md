@@ -1,4 +1,5 @@
 # clase-05
+### Repositorio Archivado (read-only).
 Clase 05 - Tema: Objetos 
 
 Objetivos a entender.
